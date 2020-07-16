@@ -1,0 +1,16 @@
+{
+  "name": "health-desktop",
+  "version": "0.0.1",
+  "description": "Desktop version on Health Dashboard",
+  "main": "app.js",
+  "scripts": {
+    "start": "electron app.js"
+  },
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "*"
+  },
+  "dependencies": {
+    "javascript-obfuscator": "^1.7.0"
+  }
+}
